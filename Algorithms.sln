@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.Triangle", "Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.PalindromeNumber", "Algorithms.PalindromeNumber\Algorithms.PalindromeNumber.csproj", "{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.RomanToInteger", "Algorithms.RomanToInteger\Algorithms.RomanToInteger.csproj", "{63FD62DF-A02E-435A-BC0E-9ED50525CBFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FD62DF-A02E-435A-BC0E-9ED50525CBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FD62DF-A02E-435A-BC0E-9ED50525CBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FD62DF-A02E-435A-BC0E-9ED50525CBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FD62DF-A02E-435A-BC0E-9ED50525CBFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
