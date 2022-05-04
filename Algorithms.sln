@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BinaryCompression", "Algorithms.BinaryCompression\Algorithms.BinaryCompression.csproj", "{1516B797-9A1D-4D01-8119-83250C827670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.BinaryCompression", "Algorithms.BinaryCompression\Algorithms.BinaryCompression.csproj", "{1516B797-9A1D-4D01-8119-83250C827670}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Gulliver", "Algorithms.Gulliver\Algorithms.Gulliver.csproj", "{B5D8325A-76A1-4F28-B4CB-BF54499D4F34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.Gulliver", "Algorithms.Gulliver\Algorithms.Gulliver.csproj", "{B5D8325A-76A1-4F28-B4CB-BF54499D4F34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Cards", "Algorithms.Cards\Algorithms.Cards.csproj", "{F1A96A0B-0E0B-4AE5-A676-50D592B2FADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.Cards", "Algorithms.Cards\Algorithms.Cards.csproj", "{F1A96A0B-0E0B-4AE5-A676-50D592B2FADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Triangle", "Algorithms.Triangle\Algorithms.Triangle.csproj", "{AA23BF5D-0BB1-4757-9F14-B7A530FC46D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.Triangle", "Algorithms.Triangle\Algorithms.Triangle.csproj", "{AA23BF5D-0BB1-4757-9F14-B7A530FC46D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.PalindromeNumber", "Algorithms.PalindromeNumber\Algorithms.PalindromeNumber.csproj", "{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AA23BF5D-0BB1-4757-9F14-B7A530FC46D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA23BF5D-0BB1-4757-9F14-B7A530FC46D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA23BF5D-0BB1-4757-9F14-B7A530FC46D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE5177A-29D0-47A6-BF59-7C1127C63ECD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
